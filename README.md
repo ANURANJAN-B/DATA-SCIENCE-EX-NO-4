@@ -35,6 +35,51 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+<img width="679" height="361" alt="image" src="https://github.com/user-attachments/assets/b2817694-ce69-46da-b442-f2e06a118f5b" />
+
+<img width="492" height="210" alt="image" src="https://github.com/user-attachments/assets/609f2cc0-40b5-4d3a-b289-bca7e12003a0" />
+
+<img width="509" height="507" alt="image" src="https://github.com/user-attachments/assets/c8cf5111-d7f9-48c4-8e49-8eba4292c451" 
+       />
+<img width="723" height="142" alt="image" src="https://github.com/user-attachments/assets/34655600-6309-43db-9f98-def3afd951d3" />
+
+<img width="715" height="300" alt="image" src="https://github.com/user-attachments/assets/3a56c51c-586c-4a86-b5da-7ef83d192250" />
+
+<img width="833" height="444" alt="image" src="https://github.com/user-attachments/assets/1eb046f0-aec7-478f-ae51-491f703547de" />
+
+<img width="857" height="500" alt="image" src="https://github.com/user-attachments/assets/07963db7-0b0a-4603-945d-f7bf6a078162" />
+
+<img width="869" height="595" alt="image" src="https://github.com/user-attachments/assets/27ddfea9-00c9-4da6-8c68-bb933121d7d6" />
+
+<img width="898" height="366" alt="image" src="https://github.com/user-attachments/assets/baf5af86-9b22-4519-9ad9-b731490c7bff" />
+"Income.csv"
+<img width="714" height="526" alt="image" src="https://github.com/user-attachments/assets/008f8c26-31b6-4fcd-9a47-f813dcb94efc" />
+
+<img width="561" height="375" alt="image" src="https://github.com/user-attachments/assets/f58d40a1-50e2-476a-9890-020ac9e4514e" />
+
+<img width="1360" height="601" alt="image" src="https://github.com/user-attachments/assets/23daf021-ee2e-4bac-9ac3-69d794fe9f77" />
+
+<img width="1192" height="569" alt="image" src="https://github.com/user-attachments/assets/5218a269-4653-466e-a04e-ae2828b076da" />
+
+<img width="1053" height="352" alt="image" src="https://github.com/user-attachments/assets/23bac2e0-48b2-4e15-8ba4-9ddab5753962" />
+
+<img width="707" height="505" alt="image" src="https://github.com/user-attachments/assets/300094c5-8c6a-4259-b4d9-2266b897a926" />
+
+<img width="1378" height="620" alt="image" src="https://github.com/user-attachments/assets/37e86ced-3d97-46a2-8725-3fa7dd41bfc9" />
+
+<img width="1015" height="515" alt="image" src="https://github.com/user-attachments/assets/e1ff8cd7-05f3-4fed-a43c-cb044cdab898" />
+
+<img width="950" height="301" alt="image" src="https://github.com/user-attachments/assets/d53cd911-bc70-435d-b68d-8d39b5c40ed6" />
+
+<img width="1123" height="378" alt="image" src="https://github.com/user-attachments/assets/1e22d578-5335-46f0-82ad-47d483592579" />
+
+<img width="917" height="146" alt="image" src="https://github.com/user-attachments/assets/3d368a73-288f-4394-8600-7f830715ed38" />
+
+
+
+
+
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+   Therefore the codes are executed successfully
